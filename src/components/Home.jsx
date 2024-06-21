@@ -56,7 +56,7 @@ const Home = () => {
       </div>
       <div className="rectangle">
         <h2> Interviews from</h2>
-        <img src={google} alt=""/><br/>
+        {/* <img src={google} alt=""/><br/> */}
         <img src={differentCompanies} alt=""/>
       </div>
 
